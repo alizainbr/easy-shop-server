@@ -1,6 +1,9 @@
 {
   "name": "eshop",
   "version": "1.0.0",
+  "engines": { 
+      "node": "14.15.0" 
+   },
   "description": "Ecommerce react native app",
   "main": "app.js",
   "scripts": {
